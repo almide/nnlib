@@ -1,0 +1,6 @@
+[package]
+name = "nnlib"
+version = "0.1.0"
+description = "Neural-network kernels (attention, RoPE, norms, activations, quantised Q1_0/Q8_0 weights, Qwen3 blocks) for Almide"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/almide/nnlib"
