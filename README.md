@@ -1,3 +1,5 @@
+> **Archived.** These kernels now live in module `nn.kernels` of [almide-graphics/nn](https://github.com/almide-graphics/nn) (v0.2.0+): `almide add almide-graphics/nn@v0.2.0 --trust github.com/almide-graphics`, `import nn.kernels`, then `kernels.<fn>(…)` with the same names, arguments and result bits. v0.1.0 stays available for existing locks, but receives no updates.
+
 # almide/nnlib
 
 Neural-network kernels for [Almide](https://github.com/almide/almide):
